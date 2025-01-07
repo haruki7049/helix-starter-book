@@ -35,7 +35,7 @@
             nativeBuildInputs = [
               pkgs.nil
               pkgs.typst
-              pkgs.typst-lsp
+              pkgs.tinymist
             ];
           };
         };
